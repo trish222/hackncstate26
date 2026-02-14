@@ -8,18 +8,25 @@ Project for Hack NC State 2026
 - decide environment
 - roles
 
-12:00-1:00
+12:00-1:00pm
 - eat
 - set up environment
 
-1:00-2:00
+1:00-2:00pm
 - check in with mentor
 -
 
-2:00-3:00
+2:00-3:00pm
 - attend workshop
 
-3:00-6:00
+3:00-6:00pm
 - coding
 
-  
+
+...
+
+5:00am-7:00am
+- create the demo
+
+7:00am-8:00am
+- editing, finishing touches
